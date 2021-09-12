@@ -21,4 +21,16 @@ JUST GO INSIDE video-coverter IN CMD AND FOLLOW BELOW STEPS
 NOW YOU CAN CONVERT YOUR FILES MP4 TO HSL YOU CAN FIND IT inside node -> HSL
 
 (IN WORKING_IMAGES FOLDER YOU CAN SEE HOW IT IS WORKING)
+
+I Also Added MP4 video inside node if you want use it....
 -----------------------------------------------------------------------------
+HERE
+node FILE - IS NODEJS
+front FILE - IS REACT
+index.js outside all file is -EXPRESS
+
+THOSE ARE CONNECTED TOGETHER TO RUN OUR APP
+
+-------------------------------------------------------------------------------
+
+
