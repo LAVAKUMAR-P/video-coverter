@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "concurrently \"electron .\" \"cd reactpage && npm start\"",
-    "build": "cd reactpage && npm run build && cd .. && electron-packager . hackathon --all --asar",
+    "dev": "concurrently \"electron .\" \"cd frontpage && npm start\"",
+    "build": "cd frontpage && npm run build && cd .. && electron-packager . hackathon --all --asar",
     "package": "electron-packager . desktop-app --all --asar"
   },
   "keywords": [],
