@@ -4,7 +4,11 @@ HOW TO USE:
 
 (BEFORE USING THIS APP KINDLY INSTALL FFMPEG TO YOUR SYSTEM BY USING THIS LINK: https://www.ffmpeg.org)
 
+
 1)clone the repository
+ADD FOLDER video INSIDE ffmpeg 
+INSIDE video create uploded & HSL
+
 2)use npm install command to inside FFmpeg and also frontpage &  index.js(outside the folder)
 or follow the below steps in CMP
 JUST GO INSIDE video-coverter IN CMD AND FOLLOW BELOW STEPS
@@ -16,7 +20,7 @@ JUST GO INSIDE video-coverter IN CMD AND FOLLOW BELOW STEPS
 4:cd .. ->npm run dev
 )
 ----------------------------------------------------------------------------
-NOW YOU CAN CONVERT YOUR FILES MP4 TO HSL
+NOW YOU CAN CONVERT YOUR FILES MP4 TO HSL YOU CAN FIND IT inside ffmpeg -> HSL
 
 (IN WORKING_IMAGES FOLDER YOU CAN SEE HOW IT IS WORKING)
 -----------------------------------------------------------------------------
