@@ -14,3 +14,6 @@ JUST GO INSIDE video-coverter IN CMD AND FOLLOW BELOW STEPS
 )
 ----------------------------------------------------------------------------
 NOW YOU CAN CONVERT YOUR FILES MP4 TO HSL
+
+(IN WORKING_IMAGES FOLDER YOU CAN SEE HOW IT IS WORKING)
+-----------------------------------------------------------------------------
