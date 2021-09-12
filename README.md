@@ -6,21 +6,19 @@ HOW TO USE:
 
 
 1)clone the repository
-ADD FOLDER video INSIDE ffmpeg 
-INSIDE video create uploded & HSL
 
-2)use npm install command to inside FFmpeg and also frontpage &  index.js(outside the folder)
+2)use npm install command to inside node and also frontpage &  index.js(outside the folder)
 or follow the below steps in CMP
 JUST GO INSIDE video-coverter IN CMD AND FOLLOW BELOW STEPS
 ----------------------------------------------------------------------------
 (
 1:--> npm i
-2: -->cd ffmpeg -> put npm i
+2: -->cd node -> put npm i
 3: --> cd .. ->cd frontpage-> npm i 
 4:cd .. ->npm run dev
 )
 ----------------------------------------------------------------------------
-NOW YOU CAN CONVERT YOUR FILES MP4 TO HSL YOU CAN FIND IT inside ffmpeg -> HSL
+NOW YOU CAN CONVERT YOUR FILES MP4 TO HSL YOU CAN FIND IT inside node -> HSL
 
 (IN WORKING_IMAGES FOLDER YOU CAN SEE HOW IT IS WORKING)
 -----------------------------------------------------------------------------
