@@ -1,5 +1,5 @@
 # video-coverter
-hackathon
+Hackathon
 HOW TO USE:
 1)clone the repository
 2)use npm install command to inside FFmpeg and also frontpage &  index.js(outside the folder)
