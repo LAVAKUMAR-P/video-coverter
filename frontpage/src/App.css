@@ -1,0 +1,57 @@
+/*css for dashboard header*/
+.Dashboard{
+  width: 90%;
+  height: 3em;
+  background-color: hsla(149, 78%, 57%, 1);
+  border-radius: 5px 5px 20px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  font-weight: 800;
+  color: hsla(236, 78%, 57%, 1);
+}
+/*DASH BOARD BUTTON */
+.button-one {
+  margin: 0.5em;
+  font-size: 1em;
+  font-weight: 600;
+  border: none;
+  padding: 1em;
+  border-radius: 10px;
+  color: hsla(236, 78%, 57%, 1);
+  background-color: hsla(149, 78%, 57%, 1);
+}
+
+.button-one:hover{
+  background-color: hsla(236, 78%, 57%, 1);
+  color:#fff;
+}
+
+/*DASH BOARD BUTTON */
+.button-two {
+  margin: 0.5em;
+  font-size: 1em;
+  font-weight: 600;
+  border: none;
+  padding: 1em;
+  border-radius: 10px;
+  color:#fff;
+  background-color: hsla(236, 78%, 57%, 1);
+}
+
+.button-two:hover{
+  color: hsla(236, 78%, 57%, 1);
+  background-color: hsla(149, 78%, 57%, 1);
+}
+
+/*css for header*/
+.header{
+  display: grid;
+  place-items: center;
+}
+/*text color*/
+.text{
+  color: blue;
+  font-weight: 700;
+}
