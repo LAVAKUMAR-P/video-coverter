@@ -90,7 +90,7 @@ function Firstpage() {
                       ></video>
                     </div>
                     <div className="text-align-right">
-                      <input type="submit" value="Upload" className="button-one" />
+                      <input type="submit" value="Upload" className="button-one"/>
                     </div>
                   </div>
                 </div>
