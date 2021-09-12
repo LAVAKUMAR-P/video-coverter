@@ -1,5 +1,6 @@
 # video-coverter
 Hackathon
+(BEFORE USING THIS APP KINDLY INSTALL FFMPEG TO YOUR SYSTEM BY USING THIS LINK: https://www.ffmpeg.org)
 HOW TO USE:
 1)clone the repository
 2)use npm install command to inside FFmpeg and also frontpage &  index.js(outside the folder)
